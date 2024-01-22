@@ -1,0 +1,49 @@
+body{
+    background: white;
+}
+#a1{
+    height:100px;
+    width:300px;
+    background: #055bb5;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    border-radius: 0.3em 0.3em 0em 0em ;
+}
+img{
+    height:50px;
+    width:50px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+#a2{
+    height:400px;
+    width:300px;
+    border:1px solid grey;
+    width: 50%;
+    margin-left: 25%;
+}
+p{
+    text-align: center;
+}
+#a3{
+    color:#5C5C5C;
+    font-weight: bold;
+}
+#a4{
+    color:#5C5C5C;
+}
+#a5{
+    width: 70%;
+    margin-left: 11%;
+font-size: 0.8em;
+background-color: #44ac33;
+color: #fff;
+padding: .7em 1em;
+border-radius: .3em;
+font-weight: bold;
+margin-bottom: 1em
+}
+#a6{
+    color:#1987CB;
+}
